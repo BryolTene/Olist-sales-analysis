@@ -86,7 +86,7 @@ This project covers the full data pipeline from raw data to machine learning pre
 ## Getting Started
 
     # 1. Clone the repository
-    git clone https://github.com/YOUR_USERNAME/olist-sales-analysis.git
+    git clone https://github.com/BryolTene/olist-sales-analysis.git
 
     # 2. Create virtual environment
     python3 -m venv sales_analysis
