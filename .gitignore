@@ -1,0 +1,20 @@
+# Data files — never push to GitHub
+data/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+sales_analysis/
+.env
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
